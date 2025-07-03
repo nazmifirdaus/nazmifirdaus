@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as is as<br>- 📚 I'm currently learning in my dream<br>- ⚡ In my free time I think i handsome</p>
+<p align="left">I'm nazmifirdaus from depok city<br><br>- 🔭 I’m working as is as<br>- 📚 I'm currently learning in my dream<br>- ⚡ In my free time I think i handsome</p>
 
 ###
 
